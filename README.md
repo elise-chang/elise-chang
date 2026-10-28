@@ -12,6 +12,7 @@ My work spans React interfaces, data engineering pipelines, and interactive robo
 - **[Miramonte FIRST Robotics (2022–2023)](https://github.com/elise-chang/Miramonte-FRC-Robotics-Portfolio)** — Java/WPILib robotics projects spanning drivetrain control, intake and shooter mechanisms, timed autonomous routines, and Limelight telemetry. [Watch the robot demonstration](https://youtu.be/qLPfhtkcMI0).
 - **[Dynamic Escapade](https://github.com/elise-chang/Dynamic-Escapade-Arcade)** — A collaborative interactive game built with JavaScript and p5.js, featuring six themed worlds, draggable character controls, soundtrack selection, and animated transitions.
 - **[Job Posting Conversion Prediction](https://github.com/elise-chang/job-posting-conversion-prediction)** — A data science case study comparing machine-learning models on LinkedIn job-posting data using structured features and TF-IDF text.
+
 \* Requires authorization from the organizations that have ownership of the IP.
 
 ## Tech stack
