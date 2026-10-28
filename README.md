@@ -6,7 +6,7 @@ My work spans React interfaces, data engineering pipelines, and interactive robo
 
 ## Featured projects
 
-- **Dance Central** — A collaborative React prototype for dance-team coordination, including choreography blocking, casting, and outfit planning. Contributed interactive UI components and frontend workflows.
+- **[Dance Central](https://github.com/elise-chang/Dance-Central)** — A collaborative React prototype for dance-team coordination, including choreography blocking, casting, and outfit planning. Contributed interactive UI components and frontend workflows.
 - **Wildfire Data Engineering** — Python, Pandas, and SQL pipelines for cleaning and integrating over 200K text, image, and geospatial records.
 - **Educational Panda Robot** — An interactive robot integrating microcontrollers, sensors, servo control, and computer vision.
 
