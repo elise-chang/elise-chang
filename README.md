@@ -1,6 +1,6 @@
 # Hi, I'm Elise!
 
-I'm a **Data Science and Cognitive Science** student at **UC Berkeley**, graduating in May 2027. I'm interested in robotics R&D, machine learning, data analytics, and HCI.
+I'm a **Data Science and Cognitive Science** student at **UC Berkeley**, graduating in May 2027. I'm interested in robotics R&D, machine learning, data analytics, and UI/UX.
 
 My work spans React interfaces, data engineering pipelines, and interactive robotics.
 
