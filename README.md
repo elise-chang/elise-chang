@@ -1,16 +1,17 @@
-## Hi there 👋
+# Elise Chang
 
-<!--
-**elise-chang/elise-chang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data Science & Cognitive Science at UC Berkeley | Class of 2027**
 
-Here are some ideas to get you started:
+I'm an undergraduate at the University of California, Berkeley pursuing degrees in Data Science and Cognitive Science. I'm interested in the intersection of **machine learning, data analytics, and human-centered technology**—using data and thoughtful design to solve practical problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Areas of interest
+
+- **Data science & analytics:** Finding patterns in data and communicating actionable insights
+- **Machine learning & AI:** Exploring how intelligent systems learn and make predictions
+- **Product & UX:** Designing technology with human behavior and experience in mind
+- **Robotics:** Applying programming and problem-solving to physical systems
+
+### Technical background
+
+- **Programming:** Python, SQL, Java, JavaScript
+- **Relevant coursework:** Machine Learning, Artificial Intelligence, Data Engineering, Data Mining, UI Design & Development, Embedded Systems & Feedback Control
