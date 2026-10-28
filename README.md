@@ -11,6 +11,7 @@ My work spans React interfaces, data engineering pipelines, and interactive robo
 - **[Job Posting Conversion Prediction](https://github.com/elise-chang/job-posting-conversion-prediction)** — A collaborative data science case study comparing machine-learning models on LinkedIn job-posting data using structured features and TF-IDF text.
 - **Wildfire Data Engineering** — Python, Pandas, and SQL pipelines for cleaning and integrating over 200K text, image, and geospatial records.
 - **Educational Panda Robot** — An interactive robot integrating microcontrollers, sensors, servo control, and computer vision.
+- **[Robotics Club — Robot Demonstration](https://youtu.be/qLPfhtkcMI0)** — Video showcasing a robot developed through my high school robotics club.
 
 ## Tech stack
 
