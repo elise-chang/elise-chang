@@ -16,7 +16,7 @@ My work spans React interfaces, data engineering pipelines, and interactive robo
 ## Tech stack
 
 - **Languages:** Python, SQL, Java, C, JavaScript, HTML/CSS
-- **Data & ML:** Pandas, NumPy, Scikit-learn, Spark
+- **Data & ML:** Pandas, NumPy, Scikit-learn, Spark, PyTorch, Hugging Face, PyVector
 - **Development & design:** React, Git, Figma
 
 ## Contact
