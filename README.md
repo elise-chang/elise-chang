@@ -1,6 +1,6 @@
 # Hi, I'm Elise!
 
-I'm a senior at **UC Berkeley** double majoring in **Data Science and Cognitive Science**. I'm interested in robotics R&D, machine learning, data analytics, and UI/UX.
+I'm a senior at **UC Berkeley** double majoring in **Data Science and Cognitive Science**. My interests are robotics R&D, AI/ML, data analytics, and UI/UX.
 
 My work spans React interfaces, data engineering pipelines, and interactive robotics.
 
