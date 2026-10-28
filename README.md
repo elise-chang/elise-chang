@@ -1,10 +1,10 @@
 # Hi, I'm Elise!
 
-I'm a **Data Science and Cognitive Science** student at **UC Berkeley** (graduating May 2027). I'm interested in machine learning, data analytics, and building useful, human-centered products.
+I'm a **Data Science and Cognitive Science** student at **UC Berkeley**, graduating in May 2027. I'm interested in machine learning, data analytics, and building useful, human-centered products.
 
 I've worked on AI-powered video search, data engineering pipelines, and interactive robotics.
 
-## Selected projects
+## Featured projects
 
 - **Dance Central** — A dance team management app with semantic choreography search, scheduling, and video organization. Built with React, PyTorch, Hugging Face Transformers, and pgvector.
 - **Wildfire Data Engineering** — Python, Pandas, and SQL pipelines for cleaning and integrating over 200K text, image, and geospatial records.
@@ -18,4 +18,4 @@ I've worked on AI-powered video search, data engineering pipelines, and interact
 
 ## Contact
 
-[Email](mailto:elise.chang@berkeley.edu)
+[elise.chang@berkeley.edu](mailto:elise.chang@berkeley.edu)
